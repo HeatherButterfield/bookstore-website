@@ -20,13 +20,34 @@ nav {
 
 /*# sourceMappingURL=main.css.map */
 
-.jumbotron {
+.mainHeader {
   background-image: url(../images/homeBook.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 500px;
+}
+
+.homePic2 {
+  background-image: url(../images/phone.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
 }
 
+.jumbotron-fluid {
+  width: 100%;
+}
+
 a {
   color: black;
+}
+
+.homeBottom {
+  background: #17a2b8;
+  color: white;
+}
+
+.cardBtn {
+  width: 100%;
 }
