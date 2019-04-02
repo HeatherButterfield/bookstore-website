@@ -43,6 +43,11 @@ a {
   color: black;
 }
 
+.grayBar {
+  background: #696969;
+  color: white;
+}
+
 .homeBottom {
   background: #17a2b8;
   color: white;
