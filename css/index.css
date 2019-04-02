@@ -28,6 +28,14 @@ nav {
   min-height: 500px;
 }
 
+.contactHeader {
+  background-image: url(../images/homeBook.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  max-height: 275px;
+}
+
 .homePic2 {
   background-image: url(../images/phone.jpg);
   background-size: cover;
